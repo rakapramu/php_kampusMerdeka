@@ -11,7 +11,7 @@
         </div>
         <div class="credits">
 
-            Di Design Dengan <i class="bi bi-heart-fill"></i> Oleh Raka
+            Di Design Dengan <i class="bi bi-heart-fill"></i> Oleh Raka Pramudya
         </div>
     </div>
 </footer>
